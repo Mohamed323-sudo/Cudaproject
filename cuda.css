@@ -248,6 +248,78 @@ border: 2px solid black;
     font-weight: bold;
     text-transform: uppercase;
 }
+.Courses_content{
+    padding-top: 20px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 100px
+ 
+}
+.circle1{
+    margin-left: 50px;
+}
+.big1{
+    width: 100%;
+    height:200px;
+    background-color: white;
+    border:10px solid cyan;
+    border-radius: 100%;
+
+}
+.big2{
+    width: 100%;
+    height:200px;
+    background-color: white;
+    border:10px solid rgb(151, 15, 56);
+    border-radius: 100%;
+
+}
+.big3{
+    width: 100%;
+    height:200px;
+    background-color: white;
+    border:10px solid greenyellow;
+    border-radius: 100%;
+  
+}
+.big4{
+    width: 100%;
+    height:200px;
+    background-color: white;
+    border:10px solid orange;
+    border-radius: 100%;
+  
+}
+
+.big1 p{
+    margin-top: 65px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.big2 p{
+    margin-top: 65px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.big3 p{
+    margin-top: 65px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.big4 p{
+    margin-top: 65px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.contain h2{
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+}
+
 
 /*-------portfolio------*/
 
